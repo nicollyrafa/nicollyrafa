@@ -1,10 +1,5 @@
+ # sobre mim 
 - 👋 Hi, I’m @nicollyrafa
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-nicollyrafa/nicollyrafa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+-  :+1:  meu email de contato é Nicolly.chinotti@escola.pr.gov.br
+- 👀 eu estou interessado em aprender a programar novas linguagens
+- 🌱 eu estou aprendendo a programar recentemente e linguagem de javaScript e Scratch
